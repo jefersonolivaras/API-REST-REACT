@@ -3,4 +3,5 @@
 Execute os comandos abaixo:
 
   npm i
+  
   npm start
